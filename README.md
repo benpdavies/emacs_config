@@ -15,5 +15,5 @@ From init.el:
 ## Install
 
 * Remove any existing `~/.emacs.d`
-* Clone this repo: `cd; git clone git@github.com:joelittlejohn/.emacs.d.git`
+* Clone this repo: `cd; git clone git@github.com:benpdavies/.emacs.d.git`
 * Start Emacs (packages will be installed and configured automatically)
